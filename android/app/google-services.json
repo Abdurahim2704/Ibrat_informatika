@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124742999684",
+    "project_id": "ibrat-clone-project",
+    "storage_bucket": "ibrat-clone-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124742999684:android:fc7ca400fe611c640facd1",
+        "android_client_info": {
+          "package_name": "com.pdp.uz.ibrat_informatika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBtNi1n03BZCMDYNQAL04yqo_vPMWD48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

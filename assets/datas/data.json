@@ -1,0 +1,534 @@
+{
+  "title": "Informatika",
+  "header_image": "assets/images/computer.jpg",
+  "chapters": [
+    {
+      "title": "1 Matnli hujjat bilan ishlashni boshlash",
+      "lessons": [
+        {
+          "title": "Soʻz , Bosh harflarda va Tinish belgilarini yozish.",
+          "questions": [
+            {
+              "question": "1. Shift nima vazifani bajaradi?",
+              "variants": [
+                "matn yozyatganimizda bosh harfga ogiradigan tugma.",
+                "sozlar orasida joy tashida",
+                "hamma sozlarni kichik harflarda yozadi"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "2. Rasmdagi tugma qanday vazifani bajaradi?",
+              "image": "assets/images/question22.jpg",
+              "variants": [
+                "Yangi qatordan boshlab yozadi",
+                "Raqamlarni ketma ketlikda yozadi",
+                "Vergul yozish tugmasi"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3. Xato berilgan qatorni toping",
+              "variants": [
+                "Space, Enter, Backspace, Shift",
+                "Enter, Caps Lock, Sichqoncha",
+                "Backspace, Space, Back"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "4. Matnning biror qismini oʻzgartirsangiz bu-?",
+              "variants": [
+                "Tahrirlash boladi.",
+                "Ko’chirish boladi",
+                "O’chirish boladi."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "5. Rasmda qaysi gap belgilanganligini ayta olasizmi?",
+              "image": "assets/images/question25.jpg",
+              "variants": [
+                "Tepadagi gap",
+                "Pastdagi gap",
+                "Ikkalasi ham belgilangan"
+              ],
+              "answer": 1
+            }
+          ],
+          "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+          "text": "Matn bilan ishlash, Sichqonchadan va Klaviaturadan foydalanish\n\nMatn bilan ishlash, sichqoncha va klaviatura kompyuterlar va boshqa qurilmalarda matn yozish, tahrir qilish, va boshqa amallarni bajargan uchun foydalaniladigan asosiy vositalardir. Bu mavzularning har biri kompyuter ishlari uchun kritik muhimlikka ega.\n\nMatn bilan Ishlash:\nMatn bilan ishlash, kompyuterda matn yozish va o'qishni o'z ichiga oladi. Bu amal, yangi hujjatlar yaratish, maqolalar yozish, elektron pochta xabarlari yuborish va boshqa matn asosida ishlarni o'z ichiga oladi. Microsoft Word, Google Docs va boshqa matn muharrir dasturlari matn bilan ishlashda keng qo'llaniladi.\n\nSichqoncha (Mouse) dan foydalanish:\nSichqoncha, ekran ustida ko'rsatkichni harakatlantirish uchun foydalaniladigan qurilma. U kompyuterda obekt va ikonkalarni tanlash, matnni belgilash, va boshqa interaktiv amallarni bajarish uchun ishlatiladi. Bu qurilmaning tugmalari va ikonkalari, kompyuter interfeysini oson va tez boshqarishga imkon beradi.\n\nKlaviatura dan foydalanish:\nKlaviatura, harflar, raqamlar va belgilar orqali matn yozish, amallar bajarish uchun ishlatiladi. Bu qurilma, matn asosida ishlash, dasturlarni boshqarish, va boshqa kompyuter ishlarini amalga oshirish uchun kerak bo'lgan tugmalarni o'z ichiga oladi. Klaviatura, bir nechta tillarni qo'llab-quvvatlaydi va o'zgarmaydigan kompyuter interfeysining muhim qismidir.\n\nMatn bilan ishlash, sichqoncha va klaviaturadan foydalanish, kompyuter foydalanuvchilariga kompyuterda samarali ishlash imkonini beradi. Bu qurilmalar haqida tushuncha va bilimga ega bo'lish, har bir foydalanuvchi uchun juda muhimdir."
+        },
+        {
+          "title": "Matnni belgilash va tahrirlash, Matnni koʻchirish",
+          "text": "Matnni Belgilash va Tahrirlash, Matnni Koʻchirish\n\nMatn belgilash, matnning maʼlum bir qismiga, soʻziga yoki to'liq barchasiga tanlash va uning ustida harakat qilishni anglatadi. Bu, matnni tahrir qilish, koʻchirish va oʻzgartirish uchun asosiy vosita boʻlib, bir nechta matn muharrir dasturlarida ommalashtirilgan.\n\nMatnni belgilash va tahrir qilish uchun qoʻllaniladigan ba'zi amaliyotlar:\n\nTanlash va Belgilash:\nMatndagi maʼlum bir soʻzni, qatlamni yoki to'liq matnni tanlash uchun, kerakli joyga kursor olib, tugmani bosing yoki klaviaturadan xususiy tugmalar (Shift, Ctrl) ishlatiladi. Bu usul, belgilangan matnni koʻchirish, oʻchirish yoki boshqa tahrirlashlar uchun asosiydir.\n\nKoʻchirish va Oʻchirish:\nTanlangan matnni koʻchirish va oʻchirish uchun, matnni tanlangan holatda \"Ctrl+C\" (koʻchirish) va \"Ctrl+X\" (oʻchirish) tugmalaridan foydalanishingiz mumkin. Keyin, matnning yangi joyiga kursor olib, \"Ctrl+V\" tugmasini bosib, matnni joylashtirishingiz mumkin.\n\nFormatlash va Stilni Oʻzgartirish:\nKoʻchirilgan yoki tanlangan matnni formatlash, stilni oʻzgartirish uchun, matn muharrir dasturining ust menulardan yoki kontekst menyusi orqali kerakli parametrlarni tanlashingiz mumkin. Bu, matnni koʻrish koʻrinishini, shrift, qatori, ranglarni oʻzgartirish va boshqa tahrirlashlarni oʻz ichiga oladi.\n\nMatnni Koʻchirish va Tashlash:\nKoʻchirish va tashlash, matn yoki boshqa obyektlarni bir joydan boshqasiga oʻtkazish uchun ishlatiladi. Bu amaliyotni oʻtkazish uchun \"Ctrl+X\" tugmalarini ishlatishingiz mumkin.\n\nMatnni belgilash, tahrir qilish va koʻchirish, matn muharrir dasturlarida osonlik va samarali ishlashning asosiy qismlaridir. Siz boshqa tahrirlash amaliyotlarini oʻrganishingiz va matnni qulay va toʻliq oʻzgartirishingiz uchun matn muharririning barcha imkoniyatlaridan foydalanishingiz mumkin.\n\n\n\n\n\n\n",
+          "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+          "questions": [
+            {
+              "question": "1. O’chirish tugmasi qanday vazifani bajaradi?",
+              "variants": [
+                "matnni olib tashlash.",
+                "yangi matn qoshish",
+                "so’zlarni aniqlaydi."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "2. Clipboard qayerda joylashgan?",
+              "variants": [
+                "kampyuterda",
+                "printerda",
+                "Miyyamizda"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3. Ctrl+C tugmasini bosa nima sodir boladi?",
+              "variants": [
+                "nusxa oladi.",
+                "Paste bolimiga otadi",
+                "matni tahrirlidi"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "4. Copy so'zining manosi?",
+              "variants": [
+                "belgilangan matnni clipboardga saqlab olish.",
+                "ushbu amal bajarilganda sahifangizdan matn oʻchib ketmaydi.",
+                "bu siz vaqtincha xotiraga nusxa olgan matnni sahifaga qayta joylashdir."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "5. Cut qanday belgi?",
+              "variants": [
+                "bu so’z belgilangan matnni vaqtincha xotiraga saqlab olishdir.",
+                "bu ekranda ochiluvchi va sizga tanlov varyantini royxatini taqdim etuvchi oyna.",
+                "matnga ozgartirish korsatish"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "title": "Matnni koʻchirish  Asosiy tugmalarni tanlash",
+          "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+          "text": "Matnni koʻchirish uchun asosiy tugmalarni tanlash odatda quyidagi bosish va martaqil amallar orqali bajariladi:\n\nTanlash: Matnni koʻchirish uchun, olingan matnni tanlang. Bu, kursor orqali matnning boshini belgilash yoki maʼlum bir qismiga yoki soʻziga kursor olib olishni bildiradi.\n\nKoʻchirish: Tanlangan matnni koʻchirish uchun, \"Ctrl+C\" (Windows/Linux) yoki \"Command+C\" (Mac) tugmalarini bosing. Bu, tanlangan matnni kursorning o'ng tarafida joylashgan bufferga koʻchirishni amalga oshiradi.\n\nMatnni Yangi Joyga Joylashtrish: Koʻchirilgan matnni yangi joyga joylashtirish uchun, kursor olib, matn joyini belgilangan joyga olib oling. Keyin \"Ctrl+V\" (Windows/Linux) yoki \"Command+V\" (Mac) tugmalarini bosing. Bu, matnni bufferdan olib, kursor joyiga joylashtirishni amalga oshiradi.\n\nBu amallar, matnni kopyalash va oʻchirish amalini bajarish uchun asosiy va oson usullardir. Har bir matn muharrir dasturida, bu amallarni oʻtish uchun yuqori qisqa yoʻlni (keyboard shortcuts) ham ishlatish mumkin. Bu qisqalar sizning ishlaringizni tezlashtiradi va matnni kopyalash, oʻchirish, va koʻchirishni oson va tezkor bajarishga imkon beradi.\n\n\n\n\n\n\n",
+
+          "questions": [
+            {
+              "question": "1. Hujjatga matn yozib bolganingdan song matn noto’gri joyda saqlaganizni bilib qoldingiz qanday yol tutasiz?",
+              "variants": [
+                "Matnni ko’chiraman",
+                "Matnni hamma joydan ochirib tashimiz",
+                "Sichqonchani ong tomonini bossak hammasi joyga tushadi"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "2. Clipboard dagi malumot qancha vaqt mobaynida saqlanadi?",
+              "variants": [
+                "vaqtinchalik saqlanadi",
+                "2 kun turadi",
+                "1 yilgacham saqlanadi"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3. Bu belgilar faylimizni qayerda joylashgan?",
+              "image": "assets/images/question43.jpg",
+              "variants": [
+                "Fayli tepasida joylashgan",
+                "Past tomonida joylashgan",
+                "Ortasida joylashgan"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "4. Save menyusida hujjatni nusxasini qog’ozda hosil qila olamizmi?",
+              "variants": [
+                "Ha",
+                "Yo’q"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "5. Tasma deb nimaga aytiladi?",
+              "variants": [
+                "Bu sahifa yuqorisida joylashgan maydon bo’lib u yerda foydalanishingiz mumkin bolgan menyu buyruqlari joylashadi.",
+                "Barcha tugmalarni bitta joylashtirgan fayl",
+                "Sahifani har doim pastki tarafida joylashadi"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "title": "Print tugmasi, Save tugmasi",
+          "text": "Print tugmasi va Save tugmasi, matn muharrir dasturlarida odatda quyidagi vazifalarni bajarish uchun ishlatiladi:\n\nPrint Tugmasi:\n\nVazifa: Ekrandagi matnni printerni ishlatib chop etish.\nIshlatish: Matn muharrir dasturingizda, \"Print\" yoki \"Ctrl+P\" (Windows/Linux) yoki \"Command+P\" (Mac) tugmalarini bosing. Bu, matnni ekrandagi shaklga chop etish uchun printerni boshqarish uchun print dialogini ochadi. Siz kerakli printerni tanlang va boshqa parametrlarni belgilab, matnni chop etishni boshlayasiz.\nSave Tugmasi:\n\nVazifa: O'zgartirilgan yoki yangi yaratilgan hujjatni saqlash.\nIshlatish: \"Save\" yoki \"Ctrl+S\" (Windows/Linux) yoki \"Command+S\" (Mac) tugmalarini bosing. Bu, o'zgartirilgan yoki yangi yaratilgan hujjatni saqlash dialogini ochadi. Siz kerakli joy va nomni tanlab, saqlash tugmasini bosing.\nBu tugmalar, matn muharrir dasturlarida maʼlum bir hujjatni chop etish va saqlash uchun odatda ishlatiladi. Ularning har biri dasturingizning versiyasiga bog'liq o'zgartirilishi mumkin, lekin umumiy ravishda ular ehtiyotkorona va chop etishni osonlashtirish uchun ishlatiladi.",
+          "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+          "questions": [
+            {
+              "question": "1. Print tugmasini qayerdan topishingiz mumkin?",
+              "variants": [
+                "File menyusidan",
+                "Save tugmasidan",
+                "Bosh menyudan"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "2. Oyna nima?",
+              "variants": [
+                "Bu ekranda ochiluvchi va sizga variantlar tanlashni taqdim etuvchi maydondir.",
+                "Bunda chop etmoqchi bolgan hujjatni",
+                "Togri javob yoq"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3. Hujjat chop etmoqchi bolsangiz qaysi tugmadan foydalanasiz?",
+              "variants": [
+                "Hujjatni chop etish uchun Print tugmasidan foydalanasiz.",
+                "Save tugmasidan foydalanamiz",
+                "Oldin save keyn esa Print tugmasini bosamiz"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "4. Matnni biror qismini yoʻqotmaslik uchun matn bilan ishlash jarayonida Save tugmasini muntazam bosib turishingiz kerak.",
+              "variants": [
+                "Tog’ri",
+                "Notog’ri"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "5. Faylni birinchi marta saqlaganingizdan keyin, istalgan vaqtda Save tugmasini bosishingiz va uni qayta saqlashingiz mumkin.",
+              "variants": [
+                "Ha",
+                "Yo’q"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "title": "Hujjatlarni qulay nom bilan saqlash, Matnni tekshirish.",
+          "text": "Hujjatlarni Saqlash:\nSaqlash joyini tanlash: Saqlash uchun hujjatlar katalogini tanlang. O'zgarishlarni boshqa joyda saqlashni eng qulay qiladigan katalogni tanlashingiz muhim.\n\nNom berish: Hujjat nomini maʼlum bir strukturda bering, masalan, \"Matn_dasturi_tashqi_loyiha.docx\". Bu, hujjat turi va uni maʼlum bir proyekt yoki mavzuga bogʻlab beradi.\n\nSave Tugmasi: Oʻzgarishlarni qoʻshganingizdan soʻng, \"Save\" tugmasini bosing yoki \"Ctrl+S\" (Windows/Linux) yoki \"Command+S\" (Mac) tugmalarini bosing. Bu, oʻzgarishlarni saqlaydi.\n\nMatnni Tekshirish:\nQavatlar va Ortaligini Tekshirish: Matnni tuzish paytida qavatlar, belgilar va chizmalar orqali tekshirib koʻring. Bu, matnning mosligi va shaklini saqlashga yordam bera olish uchun muhimdir.\n\nYozuvni Togʻri qilish: Yozuvda yolgʻon, xato yoki koʻp yozilgan belgilar bormi, ularni tekshirib turing. Qanday boʻlsa, ularni tuzishingiz yoki oʻzgartirishingiz muhim.\n\nDil va Usullarni Tekshirish: Agar matnning maʼlum bir til yoki soʻzlashga mos kelishi kerak boʻlsa, uni tekshirib oling. Boshqa til va usullarni qoʻllaganingizdan koʻra, ularda maʼlum bir xatolik boʻlishi mumkin.\n\nFormat va Oʻrnatishlarni Tekshirish: Yozuvda qoʻllangan format va oʻrnatishlarni tekshirib, matnning koʻrinishini muhokama qiling.\n\nMatnni qulay nom bilan saqlash va tekshirish, matn muharrir dasturlarining umumiy funktsiyalaridir. Ushbu qadamlar, sizning ishlaringizni qulaylashtirishga yordam beradi va matnlarni murakkablik va koʻrinishdagi xatoliklardan himoya qiladi.",
+          "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+          "questions": [
+            {
+              "question": "1. Hujjatni yoki ma’lumotni nomini qanday nom bilan saqlash kerak?",
+              "variants": [
+                "Topishimiz qulay bolgan nom bilan",
+                "Eng sodda harf va sonlar bilan",
+                "Ozimizni ismimiz bilan saqlasgimiz kerak"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "2. Hujjatingizni nomlayotganingizda quyidagi koʻrsatmalardan qaysilariga amal qilishingiz zarur?",
+              "variants": [
+                "Fayl nomi juda uzun boʻlmasin; u hujjatda nima borligini ko‘rsatib tursin;  fayl nomida boʻsh joy boʻlmasin.",
+                "Fayl nomi uzun bolsin, hujjatda bor narsani korsatmay tursin; fayl nomida bo’sh joy qolmasin.",
+                "Fayl nomi uzun bolmasin, hujjatdagi malumot korsatmay tursin; fayl nomida bo’sh joy qolishi kerak."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "3. Tekshirish nima degani?",
+              "variants": [
+                "Bu biror xatoni topish uchun hujjatdagi matnning hammasini oʻqib chiqish",
+                "Aniq xatoni bilamiz va bunga qaramay malumotni shunchaki oqib chiqamiz",
+                "Biz yozgan malumotni tekshirishimiz shart emas, hamma yozgan malumotimiz to’g’ri"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "4. Quyidagi matnlardan qaysi biri tekshirilmagan va togirlanmagan?",
+              "variants": [
+                "MatnniQaytaIshlashHaqidagiDoʻstimgaYozganXatim",
+                "Matnni qayta ishlash haqidagi doʻstimga yozgan xatim",
+                "“Mening_xatim” deb saqlamoqchiman"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "5. Xatingizdagi imlo xatolarini tuzatdingiz, endi, uni tekshirishingiz va unda boshqa xatolar yoʻqligiga ishonch hosil qilishingiz kerak.",
+              "variants": [
+                "Ha",
+                "Yoq"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {"title": "Tasvirlar bilan ishlashni boshlash",
+    "lessons": [
+      {
+        "title": "Tasvirlar yaratish va ularni tahrirlash, Line uskunasidan foydalanish.",
+        "text": "Tasvirlarni Yaratish:\nRasmni Joylashtirish: Matn muharrir dasturingizda, tasvir joyini belgilang yoki rasmni joylashtirish uchun \"Insert\" (Kiritish) yoki \"Image\" (Rasm) menyusini tanlang.\n\nRasmni Tanlash: Fayl tanlash yoki internetdan rasm joylashtirish uchun, rasmni tanlang yoki biror joydan yuklab oling.\n\nJoylashtirish va O'lchamni O'zgartirish: Tasvirni joylashtirgandan so'ng, uni joylashtirgan joyda o'lchamini o'zgartirish uchun tugmalar yoki belgilarni ishlatishingiz mumkin.\n\nTasvirlarni Tahrirlash:\nOʻlchamlar va Joylashuvni Oʻzgartirish: Tasvirlarni tahrirlash uchun, rasm ustida bosing va uning oʻlchamini, joylashuvini oʻzgartirish uchun saqlangan parametrlarni ishlatishingiz mumkin.\n\nRanglarni oʻzgartirish: Tasvir ustida bosing va ranglarni oʻzgartirish uchun rasmning boʻyicha joylashgan parametrlarni tanlab oling. Ba'zi muharrir dasturlarida rasmni ranglandirish uchun palitra orqali tanlovlar mavjud.\n\nEffektlar va Filtrlar: Boshqa bir tahrir elementi - effektlar va filtrlar bilan tasvirni boshqarish. Ushbu funktsiyalar tasvirga ma'rifiy oʻzgartirish, noyob effekt qoʻshish va boshqa tahrirlashlarni amalga oshirishga imkon beradi.\n\nOynaga Yozuv qoʻshish: Ba'zi dasturlarda tasvir ustiga yozuv qoʻshish, matn qoʻshish va uning shaklini oʻzgartirish imkoniyati mavjud.\n\nTasvirni Yozuvga Aylantirish: Tasvirlarga yozuvni qoʻshish va uni oʻzgartirish, tahrirlash uchun yuqori tezlanayotgan funktsiyalardan biri ham bo'lishi mumkin.\n\nLine Uskunasi:\nBiror tasvir ustida ish qilish uchun Line uskunasi, tasvir ustiga chizish va shaklini yaratish uchun foydalaniladi. Uskunasiz chizish uchun:\n\nLine Uskunasini tanlash: Muharrir dasturda tasvir ustida bosing va \"Line\" (Chiziq) uskunasini tanlang.\n\nChiziqni Chizish: Tasvir ustida chiziq chizish uchun, uskunasiz bosing va tasvirni oʻng oʻlchamida istalgan joyga chiziq chizishni boshlang.\n\nOʻlchamlarni oʻzgartirish: Oʻlchamlarni oʻzgartirish va tahrirlash uchun tasvir ustidagi chiziqni tanlang va chiziqning uçlaridan oʻzgartirish tugmalari orqali oʻlchamlarni oʻzgartiring.\n\nChiziqni oʻzgartirish: Chiziqni rangini, qalinligini, shaklini va boshqa parametrlarni oʻzgartirish uchun tasvir ustidagi chiziqni tanlang va kerakli tahrirlashlarni bajaring.\n\nUlarroq tahrir elementlari va effektlar bilan foydalanish uchun, sizning tanlagan matn muharrir dasturingizning xususiyatlariga qarab, undan qanday imkoniyatlarni olishingiz mumkin.",
+        "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+        "questions": [
+          {
+            "question": "1. Tahrirlash……",
+            "variants": [
+              "Rasmga oʻzgartirishlar kiritish.",
+              "Rasmni olchamini o’zgartirish.",
+              "A va B javoblar to’g’ri."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "2. Grafika….",
+            "variants": [
+              "Kompyuterlar yordamida yaratilgan tasvirlarning nomi.",
+              "Bosishingiz mumkin boʻlgan tugma.",
+              "Rasmga oʻzgartirishlar kiritish."
+            ],
+            "answer": 1
+          },
+          {
+            "question": "3. Ikonka….",
+            "variants": [
+              "Bosishingiz mumkin boʻlgan tugma.",
+              "Rasmga oʻzgartirishlar kiritish.",
+              "Kompyuterlar yordamida yaratilgan tasvirlarning nomi."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "4. Line….",
+            "variants": [
+              "Chiziq va moʻyqalam uskunlaridan foydalanib hosil qilingan geometrik shakl.",
+              "Chizish uchun mo‘ljallangan, sahifaga oʻxshash maydon.",
+              "Bu oxirgi bajargan amalingizni ortga qaytaradi."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "5. Microsoft Paint dasturini ishga tushirganingizda, katta oq hududni koʻrasiz bu?",
+            "variants": [
+              "Kanvas",
+              "Line",
+              "Undo"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "title": "Pencil va Brush uskunasidan foydalanish",
+        "text": "Pencil (Qalam) Uskunasi:\nQalam Uskunasini Tanlash: Tasvir ustida ishlash uchun \"Pencil\" (Qalam) uskunasini tanlang. Bu uskuna odatda qattiq, tez oʻq va tek yetish uchun ishlatiladi.\n\nChiziq Chizish: Qalam uskunasi bilan tasvir ustida chiziq chizish uchun uskuna orqali tasvirning istalgan joyiga bosing va chiziqni chizishni boshlang. Qalam, oʻzgarishlar va oʻlchamlarni boshqarishga imkon beradi.\n\nQalinligini Oʻzgartirish: Oʻlchamlarni oʻzgartirish uchun tasvir ustidagi qalam uskunasini tanlang va qalinligini oʻzgartirish tugmasini ishlatishni boshlang. Bu, qalinligini moslashtirish uchun juda qulaydir.\n\nBrush (Broysh) Uskunasi:\nBroysh Uskunasini Tanlash: Toʻla rang va turli shakllarni yaratish uchun \"Brush\" (Broysh) uskunasini tanlang.\n\nRangli Yotish (Coloring): Tasvir ustida rangli yotish uchun uskuna orqali tasvirning istalgan joyiga bosing va ranglarni tanlang. Bu uskuna bilan turli shakllarni, ranglarni va oʻlchamlarni qoʻllash mumkin.\n\nOʻlcham va Shaklni Oʻzgartirish: Tasvir ustidagi broysh uskunasini tanlang va uning oʻlchamini, shaklini oʻzgartirish tugmalarini ishlatib oʻzgartiring.\n\nTurli Shakllarni Tanlash: Broysh uskunasi bilan turli shakllarni tanlash, masalan, qoʻngʻiroq, tomchi, yorugʻlik va boshqa shakllarni tanlash mumkin.\n\nBoshqa Parametrlarni Oʻzgartirish: Tasvir ustida chizish uchun boshqa parametrlarni oʻzgartirish, masalan, qalinligi, ranglarni, shakllarni va boshqalarini tanlash mumkin.\n\nPencil va Brush uskunalaridan foydalanish, tasvirlarni tahrir qilishda va chizishda sizning kreativlik va imkoniyatlarizni kengaytiradi. Bu uskunalar oʻzgaruvchan chiziq, shakl va ranglarni yaratish imkoniyatlarini taqdim etadi.",
+        "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+        "questions": [
+          {
+            "question": "1. Qalam vositasi yordamida chizish uchun Pencil tugmasini bosing",
+            "variants": [
+              "Pencil",
+              "Pen",
+              "Notebook"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "2. Bu xuddi qogʻozga qalamda chizish kabi: sichqoncha qogʻozga oʻxshaydi, Kanvas esa qalam kabi harakatlanadi.",
+            "variants": [
+              "To’g’ri",
+              "Noto’g’ri"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "3. Brush uskunasi:",
+            "variants": [
+              "Turli boʻyoq choʻtkalari yoki qalamlarga oʻxshash chiziqlar chizish uchun foydalanishingiz mumkin boʻlgan uskuna.",
+              "Turli boʻyoq choʻtkalari yoki qalamlarga oʻxshash chiziqlar chizish uchun foydalanmasangizgina bu brush boladi.",
+              "Hamma javoblar to’g’ri."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "4. Bu yerda qaysi uskuna menyusi ochilgan?",
+            "image": "assets/images/question224.jpg",
+            "variants": [
+              "Brush",
+              "Tekstura",
+              "Rang tanlash uskunasi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "5. Airbrush uskunasi….",
+            "variants": [
+              "Chizish uchun foydalaniladigan rang sepuvchiga oʻxshash vosita.",
+              "Brushni ukasi",
+              "Brush uskunasini ichida joylashgan qurilma."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "title": "Chiziqning qalinligi va rangini oʻzgartirish, Shakllar chizish",
+        "text": "Qalinligi va Rangni Oʻzgartirish:\nQalinligi Oʻzgartirish:\n\nMatn yoki tasvir ustida chiziqning qalinligini oʻzgartirish uchun, \"Qalam\" (Pencil) yoki \"Brush\" (Broysh) uskunasini tanlang.\nTasvir ustida bosing va qalinligini oʻzgartirish uchun qalinligini oʻzgartirish tugmasini yoki parametrlarni tanlang.\nRangni Oʻzgartirish:\n\nChiziq yoki tasvir ustida bosing.\nRangni oʻzgartirish uchun rangni tanlang va tasvir ustida istalgan joyga bosing.\nBa'zi dasturlarda palitraning orqasidan rangni tanlash ham mumkin.\nShakllar Chizish:\nShakllarni Tanlash:\n\n\"Shape\" (Shakl) uskunasini tanlang. Bu uskuna shakllar roʻyxatini ochadi, masalan, doira, kvadrat, uchburchak, va boshqalar.\nKerakli shaklni tanlang.\nShaklni Chizish:\n\nTanlangan shakl ustida bosing va shaklni istalgan joyda joylashtiring.\nBa'zi dasturlarda shakl tanlangan soʻng, shaklning oʻlchamini va parametrlarini oʻzgartirish uchun uskunalar mavjud.\nOʻlchamni va Parametrlarni Oʻzgartirish:\n\nTanlangan shaklni tanlang va uning oʻlchamini, shaklini oʻzgartirish tugmalari orqali oʻzgartirish uchun foydalaning.\nRangni Oʻzgartirish:\n\nShuningdek, shakl ustida bosing va rangni oʻzgartirish uchun rangni tanlang.\nHar bir muharrir dasturi oʻzining oʻziga xos uskunalar bilan keladi, shuning uchun oʻz muharrir dasturingizning qo'llanma yoki yordamchi saytini tekshirib ko'ring. Bu qoʻllanmalarda odatda barcha funktsiyalarning qanday ishlayotganligi haqida to'liq malumotlar mavjud bo'ladi.\n\n\n\n\n\n\n",
+        "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+        "questions": [
+          {
+            "question": "1. Ushbu dasturda chizayotgan tasviringizda ayrim chiziqlarni qalin, ayrimlarini esa ingichka qilish imkoniyatiga egamisiz?",
+            "variants": [
+              "Ha, mumkin",
+              "Yoq bolmaydi"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "2. Chiziq qalinligini oʻzgartirish uchun qaysi uskunani tanlashingiz kerak?",
+            "variants": [
+              "Size",
+              "Brush",
+              "Edit colorni"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "3. Bu yerda qaysi uskunalar menyusi ochilgan?",
+            "image": "assets/images/question233.jpg",
+            "variants": [
+              "Size",
+              "Edit color",
+              "Brush"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "4. Bu yerda ajratib korsatilgan menyu qanaqa menyu?",
+            "image": "assets/images/question234.jpg",
+            "variants": [
+              "Color",
+              "Qalinlik",
+              "Orqa fonga rang qoyish"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "5. Kerakli rangni tanlash uchun ushbu chiziqdagi nuqtani bosing, keyin Add to Custom Colours tugmasini bosing. Jumla to’g’rimi?",
+            "variants": [
+              "Ha, to’g’ri",
+              "Yoq"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "title": "Tasvir qismlaridan nusxa olish, kesib olib tashlash yoki joylashtirishdan foydalanish.",
+        "text": "Tasvir Qismlaridan Nusxa Olish:\nTanlash va Nusxa Olish:\n\nTasvir ustida bosing va istalgan qismi tanlang.\nTanlangan qismni nusxa olish uchun \"Ctrl+C\" (Windows/Linux) yoki \"Command+C\" (Mac) tugmalarini bosing.\nNusxa Qilingan Qismni Joylashtirish:\n\nYangi joyga yoki hujjatga o'ting.\nYangi joyda yoki hujjatda nusxa qilingan qismni joylashtirish uchun \"Ctrl+V\" (Windows/Linux) yoki \"Command+V\" (Mac) tugmalarini bosing.\nTasvirni Kesib Olib Tashlash:\nTanlash va Kesib Olish:\n\nTasvir ustida bosing va istalgan qismi tanlang.\nTanlangan qismni kesib olish uchun \"Ctrl+X\" (Windows/Linux) yoki \"Command+X\" (Mac) tugmalarini bosing.\nYangi Joyga Yoki Hujjatga Otish va Tashlash:\n\nYangi joyga yoki hujjatga o'ting.\nYangi joyda yoki hujjatda nusxa qilingan qismni joylashtirish uchun \"Ctrl+V\" (Windows/Linux) yoki \"Command+V\" (Mac) tugmalarini bosing.\nTasvirni Joylashtirish:\nTanlang va Joylashtirish:\nTasvir ustida bosing va istalgan joyda tanlang.\nTanlangan joyga tasvirni joylashtirish uchun \"Ctrl+V\" (Windows/Linux) yoki \"Command+V\" (Mac) tugmalarini bosing.\nQo'llanma va Yordam:\nBa'zi dasturlarda, joylashtirilgan tasvirning yangi joyda joylashuvi uchun drag-and-drop (surish va qoʻyish) usuli ham mavjud.\n\nSizning matn muharrir dasturingizning qo'llanmasi yoki yordamchisi bilan tanishing, chunki har bir dasturda usullar o'zgaradi va har bir dastur o'zining maxsusliklari mavjud bo'ladi.\n\nBu qadamlar sizni tasvir qismlarini nusxa olish, kesib olib tashlash yoki joylashtirishda yordam bera oladi. Tasvirni qanday o'zgartirish, tahrirlash yoki boshqa operatsiyalarni amalga oshirish haqida batafsil malumotlarni o'qib chiqing, chunki har bir dasturda boshqa muhit va imkoniyatlar mavjud.",
+        "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+        "questions": [
+          {
+            "question": "1. Copy……",
+            "variants": [
+              "Kerak paytda joylash maqsadida, tasvirning belgilangan qismini yoki hammasini clipboardga saqlash.",
+              "Tasvirning bir qismi yoki hammasini toʻrtburchak yoki biror-bir shaklda ajratib olish uchun belgilash uskunasi.",
+              "Buni tasvirda biror predmetni bittadan koʻp boʻlishini istaganingizda bajarasiz."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "2. Select…..",
+            "variants": [
+              "Tasvirning bir qismi yoki hammasini toʻrtburchak yoki biror-bir shaklda ajratib olish uchun belgilash uskunasi.",
+              "Kerak paytda joylash maqsadida, tasvirning belgilangan qismini yoki hammasini clipboardga saqlash.",
+              "Bilmayman"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "3. Eraser uskunasi nima?",
+            "variants": [
+              "Bu uskuna qogʻozga chizilgan tasvirni oʻchirishda foydalaniladigan oʻchirgʻichga juda oʻxshaydi.",
+              "Bu har hil menyudan foydalanish va uni ishlarish.",
+              "Berilgan barcha malumotlardan foydalanish va organish."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "4. Save as bu tasvirni birinchi marta saqlayotganingizda foydalaniladi. U sizga tasvirni nomlash imkonini beradi.",
+            "variants": [
+              "Ha, bu togri",
+              "Yoq, hato"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "5. Save as qayerda joylashgan?",
+            "variants": [
+              "File menyusida",
+              "Sazdat menyusida",
+              "Copy menyusida"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "title": "Eraser uskunasi, Tasvirni saqlash",
+        "text": "Eraser (Ochiruvchi) Uskunasi:\nEraser Uskunasini Tanlash:\n\nMatn muharrir dasturingizda \"Eraser\" (Ochiruvchi) uskunasini toping. Uchta xil uskuna turi mavjud bo'ladi: qalam shakli, kvadrat yoki doira shakli.\nOchiruvchi Uskunasini Tanlang va Ochirish:\n\nOchiruvchi uskunasini tanlang.\nTasvir ustida o'chirishni istagan qismi tanlang va ochiruvchi uskunasi bilan tanlangan qismi ochiring.\nBoshqa Parametrlarni O'zgartirish:\n\nBa'zi dasturlarda ochiruvchi uskunasi uchun qalinlik, rang va boshqa parametrlarni o'zgartirish mumkin.\nTasvirni Saqlash:\nSaqlash Uskunasini Tanlash:\n\nMatn muharrir dasturingizda tasvirni saqlash uchun \"Save\" (Saqlash) uskunasini toping. Bu uskuna odatda diskette shaklida yoki \"Save\" so'zi bilan belgilanadi.\nSaqlash Joyini Tanlash:\n\nSaqlash tugmasini bosish orqali saqlash joyini tanlang.\nSaqlash joyini tanlaganingizda, tasvir saqlanadi va uni keyingi marta ishlatishingiz mumkin bo'ladi.\nHar bir dasturning interfeysi va uskunalar turlari o'zlariga xos maxsusliklarga ega bo'lganligi uchun, sizning ishlatgan dasturingizning qo'llanmasini o'qing yoki veb-saytini tekshiring. Bu, sizning ishlaringizni osonlashtirish uchun juda muhim bo'ladi.",
+        "video_url": "https://www.youtube.com/watch?v=fDo3Ennnh1Y&pp=ygUSbWF0biBiaWxhbiBpc2hsYXNo",
+        "questions": [
+          {
+            "question": "1. Tasvir saqlanishi uchun qaysi birini bosasiz.",
+            "image": "assets/images/question251.jpg",
+            "variants": [
+              "Saveni",
+              "Printni",
+              "Fayl"
+            ],
+            "answer": 1
+          },
+          {
+            "question": "2. Tasvir qayerda saqlanadi?",
+            "variants": [
+              "Kampyuterda",
+              "Klaviaturada",
+              "Sichqonchada"
+            ],
+            "answer": 0
+          },
+          {
+            "question": "3. Tahrirlash……",
+            "variants": [
+              "Rasmga oʻzgartirishlar kiritish.",
+              "Rasmni olchamini o’zgartirish.",
+              "A va B javoblar to’g’ri."
+            ],
+            "answer": 2
+          },
+          {
+            "question": "4. Copy sozining manosi?",
+            "variants": [
+              "Belgilangan matnni clipboardga saqlab olish. Ushbu amal bajarilganda sahifangizdan matn oʻchib ketmaydi.",
+              "Bu siz vaqtincha xotiraga nusxa olgan matnni sahifaga qayta joylashdir.",
+              "Ikkala javob ham togri."
+            ],
+            "answer": 0
+          },
+          {
+            "question": "5. Select…..",
+            "variants": [
+              "Tasvirning bir qismi yoki hammasini toʻrtburchak yoki biror-bir shaklda ajratib olish uchun belgilash uskunasi.",
+              "Kerak paytda joylash maqsadida, tasvirning belgilangan qismini yoki hammasini clipboardga saqlash.",
+              "Bilmayman"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]}
+  ]
+}
